@@ -1,6 +1,6 @@
 # Program Documentation & How to make & Information
 
-This document provides an overview and documentation for the Python program `test.py`. The program is a simple game implemented using the Pygame Zero library. It features two characters, Mario and Luigi, who collect coins while avoiding enemies. The game includes different screens for the home, gameplay, win, and timeout states.
+This document provides an overview and documentation for the Python program `READ.md`. The program is a simple game implemented using the Pygame Zero library. It features two characters, Mario and Luigi, who collect coins while avoiding enemies. The game includes different screens for the home, gameplay, win, and timeout states.
 
 ## Table of Contents
 1. [Installation](#installation)
