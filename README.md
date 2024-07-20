@@ -56,7 +56,7 @@ During gameplay, the characters can be controlled using the following keys:
 The objective of the game is to collect coins while avoiding enemies. When a character collides with a coin, the score increases, and the coin is randomly relocated. If a character collides with an enemy, the score is reset, and the character is also relocated. The game ends when either character reaches the win score or when the timer reaches zero.
 
 ## Code Structure
-The `test.py` program follows a structured code organization. It begins with the necessary library imports, followed by the definition of helper functions, event handlers, and drawing functions. The program also defines constants for the game window size and other variables used throughout the game. It concludes with the initialization of objects and the execution of the game using the `pgzrun.go()` function.
+The `READ.md` program follows a structured code organization. It begins with the necessary library imports, followed by the definition of helper functions, event handlers, and drawing functions. The program also defines constants for the game window size and other variables used throughout the game. It concludes with the initialization of objects and the execution of the game using the `pgzrun.go()` function.
 
 ## Functions
 The program defines several functions to handle various aspects of the game:
